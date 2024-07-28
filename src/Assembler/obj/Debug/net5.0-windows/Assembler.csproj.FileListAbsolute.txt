@@ -1,0 +1,38 @@
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.exe
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.deps.json
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.runtimeconfig.json
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.runtimeconfig.dev.json
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.dll
+E:\Assembler\bin\Debug\net5.0-windows\ref\Assembler.dll
+E:\Assembler\bin\Debug\net5.0-windows\Assembler.pdb
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.csprojAssemblyReference.cache
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.Form1.resources
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.csproj.GenerateResource.cache
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.AssemblyInfoInputs.cache
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.AssemblyInfo.cs
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.csproj.CoreCompileInputs.cache
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.dll
+E:\Assembler\obj\Debug\net5.0-windows\ref\Assembler.dll
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.pdb
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.genruntimeconfig.cache
+E:\Assembler\obj\Debug\net5.0-windows\Assembler.Properties.Resources.resources
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.exe
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.deps.json
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.runtimeconfig.json
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.runtimeconfig.dev.json
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.dll
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\ref\Assembler.dll
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\bin\Debug\net5.0-windows\Assembler.pdb
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.csproj.AssemblyReference.cache
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.Form1.resources
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.Properties.Resources.resources
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.csproj.GenerateResource.cache
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.AssemblyInfoInputs.cache
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.AssemblyInfo.cs
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.csproj.CoreCompileInputs.cache
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.dll
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\ref\Assembler.dll
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.pdb
+C:\Users\padidar\Desktop\Assembler (2)\Assembler\obj\Debug\net5.0-windows\Assembler.genruntimeconfig.cache
