@@ -2,7 +2,7 @@
 
 This project is a Windows Forms application written in C# that simulates an assembler's operations.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/user-attachments/assets/fa8b1865-ac64-415c-8e38-c63539fef8ce)
 
 ## Overview
 
