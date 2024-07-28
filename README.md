@@ -1,6 +1,7 @@
 # Final Project Assembler
 
 This project is a Windows Forms application written in C# that simulates an assembler's operations.
+![Screenshot](screenshot.png)
 
 ## Overview
 
